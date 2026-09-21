@@ -1,0 +1,7 @@
+.git
+.env
+secrets
+*.md
+README.md
+Dockerfile
+docker-compose.yml
